@@ -1,0 +1,12 @@
+{
+  "subcategories": [
+    {
+      "name": "What's New",
+      "path": "changelogs"
+    },
+    {
+      "name": "Tutorials",
+      "path": "tutorials"
+    }
+  ]
+}
