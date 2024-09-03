@@ -1,0 +1,9 @@
+{
+  "posts": [
+    {
+      "name": "Your First Project",
+      "description": "Create your first project",
+      "path": "your-first-project.md"
+    }
+  ]
+}

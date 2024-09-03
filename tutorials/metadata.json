@@ -1,0 +1,9 @@
+{
+  "subcategories": [
+    {
+      "name": "General",
+      "description": "General tutorials",
+      "path": "general"
+    }
+  ]
+}
